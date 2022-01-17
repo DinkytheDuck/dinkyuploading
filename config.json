@@ -1,0 +1,32 @@
+ {
+    "bot": {
+        "prefix": "up.",
+        "id": "931975604629274674",   
+        "secret": "bTu5zCPdiiQdnJpTrdfzFXtF4IIUwotY",
+        "token": "OTMxOTc1NjA0NjI5Mjc0Njc0.YeMP6w.QyoO35ZFdRq67maLSY_nXSKD4qM"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "https://novauptime.glitch.me",
+        "callback": "https://novauptime.glitch.me/callback",
+        "discord_server_ID": "931974165639098398",
+        "ownerids": ["876181083035697172", "876181083035697172"],
+        "ownershow": true,
+        "owners": [
+            {
+                "id": "876181083035697172",
+                "desc": "developer"
+            },
+            {
+                "id": "876181083035697172",
+                "desc": "user"
+            }
+        ],
+        "arc": {
+            "enabled": false,
+            "code": ""
+        }
+    },
+    "mongodb": "mongodb+srv://Just:just@just.yjl3l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "discord": "discord.gg/efCGfP8be2"
+ }
